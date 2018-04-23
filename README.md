@@ -1,16 +1,23 @@
-# Indonesia React Army - Letnan \(Beginner\)
+# Initial page
 
-Hai, ini adalah modul belajar Indonesia React Army untuk kelas Letnan \(Beginner\). Dalam modul yang dipelajari dalam 2 hari ini, kita akan mengenal bagaimana membuat aplikasi web menggunakan reactjs.
+## Getting Super Powers
 
-## Hari Pertama:
+Becoming a super hero is a fairly straight forward process:
 
-1. Instalasi dan Persiapan \(Linux, MacOS, Windows\)
-2. create-react-app
-3. Apa itu Component?
+```
+$ give me super-powers
+```
 
-## Hari Kedua:
+{% hint style="info" %}
+ Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% endhint %}
 
-1. React Router?
-2. 3. 
-![](/assets/indonesia-react-army.png)
+Once you're strong enough, save the world:
+
+```
+// Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
+```
+
+
 
