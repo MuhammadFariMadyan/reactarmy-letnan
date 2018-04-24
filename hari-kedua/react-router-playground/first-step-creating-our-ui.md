@@ -68,3 +68,17 @@ import { ListGroup, ListGroupItem } from 'reactstrap';
 
 And Voila UI kita sudah selesai Code Lengkap ada [di sini](https://gist.github.com/MirzaChilman/ef3014665acd1fb8eed470f713f7073d)
 
+### Filling Our Function
+
+Mari kita buat Pseudocode sederhana untuk aplikasi kita
+
+1. Aplikasi mempunyai 1 inputan dan 1 tombol
+2. Ketika tombol _**insert **_di klik maka listakan muncul
+3. Setiap list akan menghasilkan text dan tombol
+4. Ketika tombol _**delete**_ di list di klik maka list akan menghilang
+5. Setiap list yang tersimpan akan di simpan di _**Local Storage**_
+
+Berdasarkan Pseudocode sederhana di atas maka kita membutuhkan 2 buah fungsi yaitu **onAddHandler** dan **onRemoveHandler**
+
+
+
